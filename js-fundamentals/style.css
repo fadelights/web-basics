@@ -1,0 +1,38 @@
+/* My Web Colors
+fg-color: #e68187
+fg-color-dim: #91515a
+bg-color: #291828
+white: #fffddf
+purple: #2b2453
+red: #fd4053
+gray: #4c4053 */
+
+body {
+    color: #e68187;
+    background-color: #291828;
+    font-family: "DM Mono";
+    /* padding-left: 100px; */
+    /* padding-right: 100px; */
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1 {
+    font-family: "Caveat";
+    font-size: 34px;
+    font-weight: 500;
+    text-decoration: wavy;
+    color: #fffddf;
+    background-color: #91515a;
+}
+
+h1, h2, h3, img {
+    border-radius: 10px;
+}
+
+.center, img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
