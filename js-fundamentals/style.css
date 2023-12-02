@@ -10,7 +10,7 @@ gray: #4c4053 */
 body {
     color: #e68187;
     background-color: #291828;
-    font-family: "DM Mono";
+    font-family: "DM Mono", "Roboto Mono", monospace;
     /* padding-left: 100px; */
     /* padding-right: 100px; */
     margin-left: 100px;
